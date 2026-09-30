@@ -1,0 +1,6 @@
+﻿Front,Back,Tags,MediaFile,QuestionType,OcclusionApplied
+"<img src=""sample_occlusion_01_LH_FSH.jpg""><br>GnRHの刺激により下垂体前葉から分泌される、図中で隠されたホルモンは？",LH・FSH,代謝内分泌::下垂体前葉::画像穴埋め,sample_occlusion_01_LH_FSH.jpg,image_occlusion,True
+"<img src=""sample_occlusion_02_PRL.jpg""><br>ドパミンにより抑制される、図中で隠された下垂体前葉ホルモンは？",PRL,代謝内分泌::下垂体前葉::画像穴埋め,sample_occlusion_02_PRL.jpg,image_occlusion,True
+"<img src=""sample_occlusion_03_TSH.jpg""><br>TRHにより分泌が促進される、図中で隠されたホルモンは？",TSH,代謝内分泌::下垂体前葉::画像穴埋め,sample_occlusion_03_TSH.jpg,image_occlusion,True
+"<img src=""sample_occlusion_04_GH.jpg""><br>GHRHにより分泌が促進される、図中で隠されたホルモンは？",GH,代謝内分泌::下垂体前葉::画像穴埋め,sample_occlusion_04_GH.jpg,image_occlusion,True
+"<img src=""sample_occlusion_05_ACTH.jpg""><br>CRHにより分泌が促進される、図中で隠されたホルモンは？",ACTH,代謝内分泌::下垂体前葉::画像穴埋め,sample_occlusion_05_ACTH.jpg,image_occlusion,True
